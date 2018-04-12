@@ -1,0 +1,24 @@
+{
+  "name": "echarts",
+  "version": "1.0.0",
+  "description": "推荐使用hb运行，因为省市json需要类似的运行环境才能读取出来，直接运行index.html 是没有数据可查的",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverdai/echarts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverdai/echarts/issues"
+  },
+  "homepage": "https://github.com/oliverdai/echarts#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
